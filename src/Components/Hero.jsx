@@ -3,7 +3,7 @@ import image from '../Assets/landingPageAssets/Group 4028.png'
 
 const Hero = () => {
   return (
-    <div className="px-3 md:px-[90px] mt-16 mb-5">
+    <div className="px-3 md:px-[90px] mt-16 mb-16">
       <div className=" grid lg:grid-cols-2 gap-9">
         <div >
           <div>
@@ -20,8 +20,8 @@ const Hero = () => {
             imagination to reality at your comfort zone
           </p>
 
-          <div className=" flex ">
-            <input className=" border py-2 w-[200px] sm:w-[300px] md:w-[400px] px-3 rounded-l-[8px]" placeholder="Search for location" type="text" name="" id="btn-search" />
+          <div className=" flex mt-12">
+            <input className=" border py-3  w-[200px] sm:w-[300px] md:w-[400px] px-3 rounded-l-[8px]" placeholder="Search for location" type="text" name="" id="btn-search" />
             <input className=" px-[25px] sm:px-[50px]  font-normal text-[16px] text-white rounded-r-[8px] bg-[#A02279] " type="submit" value="Search" />
           </div>
         </div>
