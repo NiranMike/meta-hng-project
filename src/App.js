@@ -4,6 +4,7 @@ import Hero from './Components/Hero'
 import SponsorSection from './Components/SponsorSection'
 import InspirationSection from './Components/InspirationSection'
 import DiscoverSection from './Components/DiscoverSection'
+import Footer from './Components/Footer'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <SponsorSection />
       <InspirationSection />
       <DiscoverSection />
+      <Footer />
     </div>
   )
 }
