@@ -15,8 +15,8 @@ const InspirationSection = () => {
         <div className='my-7'>
           <p className=' text-center font-medium text-[24px] md:font-bold md:text-[48px]'>Inspiration for your next adventure</p>
         </div>
-        <div className='grid gap-4 md:grid-cols-2 lg:grid-cols-4'>
-          <div className=' border p-3 mx-2 rounded-xl'>
+        <div className='grid gap-4 mx-3 md:mx-16 mb-12 md:grid-cols-2 lg:grid-cols-4'>
+          <div className=' border p-3 mx-2  rounded-xl'>
             <img src={inspi1} alt="" />
             <div className='  py-2 flex justify-between'>
               <p className=' font-normal text-[12px]'>Desert King</p>
