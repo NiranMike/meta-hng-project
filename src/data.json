@@ -1,0 +1,243 @@
+[
+    {
+        "id":1,
+        "img":"../Assets/landingPageAssets/Frame 151.png",
+        "name":"Desert King",
+        "price":"1MBT per night",
+        "distance":"2345km away",
+        "duration":"available for 2weeks stay",
+        "stars":[
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png"
+        ]
+    },
+    {
+        "id":2,
+        "img":"../Assets/landingPageAssets/Frame 152.png",
+        "name":"Desert King",
+        "price":"1MBT per night",
+        "distance":"2345km away",
+        "duration":"available for 2weeks stay",
+        "stars":[
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png"
+        ]
+    },
+    {
+        "id":3,
+        "img":"../Assets/landingPageAssets/Frame 153.png",
+        "name":"Desert King",
+        "price":"1MBT per night",
+        "distance":"2345km away",
+        "duration":"available for 2weeks stay",
+        "stars":[
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png"
+        ]
+    },
+    {
+        "id":4,
+        "img":"../Assets/landingPageAssets/Frame 154.png",
+        "name":"Desert King",
+        "price":"1MBT per night",
+        "distance":"2345km away",
+        "duration":"available for 2weeks stay",
+        "stars":[
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png"
+        ]
+    },
+    {
+        "id":5,
+        "img":"../Assets/landingPageAssets/Frame 155.png",
+        "name":"Desert King",
+        "price":"1MBT per night",
+        "distance":"2345km away",
+        "duration":"available for 2weeks stay",
+        "stars":[
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png"
+        ]
+    },
+    {
+        "id":6,
+        "img":"../Assets/landingPageAssets/Frame 156.png",
+        "name":"Desert King",
+        "price":"1MBT per night",
+        "distance":"2345km away",
+        "duration":"available for 2weeks stay",
+        "stars":[
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png"
+        ]
+    },
+    {
+        "id":7,
+        "img":"../Assets/landingPageAssets/Frame 157.png",
+        "name":"Desert King",
+        "price":"1MBT per night",
+        "distance":"2345km away",
+        "duration":"available for 2weeks stay",
+        "stars":[
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png"
+        ]
+    },
+    {
+        "id":8,
+        "img":"../Assets/landingPageAssets/Frame 158.png",
+        "name":"Desert King",
+        "price":"1MBT per night",
+        "distance":"2345km away",
+        "duration":"available for 2weeks stay",
+        "stars":[
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png"
+        ]
+    },
+    {
+        "id":9,
+        "img":"../Assets/landingPageAssets/Frame 159.png",
+        "name":"Desert King",
+        "price":"1MBT per night",
+        "distance":"2345km away",
+        "duration":"available for 2weeks stay",
+        "stars":[
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png"
+        ]
+    },
+    {
+        "id":10,
+        "img":"../Assets/landingPageAssets/Frame 160.png",
+        "name":"Desert King",
+        "price":"1MBT per night",
+        "distance":"2345km away",
+        "duration":"available for 2weeks stay",
+        "stars":[
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png"
+        ]
+    },
+    {
+        "id":11,
+        "img":"../Assets/landingPageAssets/Frame 161.png",
+        "name":"Desert King",
+        "price":"1MBT per night",
+        "distance":"2345km away",
+        "duration":"available for 2weeks stay",
+        "stars":[
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png"
+        ]
+    },
+    {
+        "id":12,
+        "img":"../Assets/landingPageAssets/Frame 162.png",
+        "name":"Desert King",
+        "price":"1MBT per night",
+        "distance":"2345km away",
+        "duration":"available for 2weeks stay",
+        "stars":[
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png"
+        ]
+    },
+    {
+        "id":13,
+        "img":"../Assets/landingPageAssets/Frame 163.png",
+        "name":"Desert King",
+        "price":"1MBT per night",
+        "distance":"2345km away",
+        "duration":"available for 2weeks stay",
+        "stars":[
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png"
+        ]
+    },
+    {
+        "id":14,
+        "img":"../Assets/landingPageAssets/Frame 164.png",
+        "name":"Desert King",
+        "price":"1MBT per night",
+        "distance":"2345km away",
+        "duration":"available for 2weeks stay",
+        "stars":[
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png"
+        ]
+    },
+    {
+        "id":15,
+        "img":"../Assets/landingPageAssets/Frame 165.png",
+        "name":"Desert King",
+        "price":"1MBT per night",
+        "distance":"2345km away",
+        "duration":"available for 2weeks stay",
+        "stars":[
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png"
+        ]
+    },
+    {
+        "id":16,
+        "img":"../Assets/landingPageAssets/Frame 166.png",
+        "name":"Desert King",
+        "price":"1MBT per night",
+        "distance":"2345km away",
+        "duration":"available for 2weeks stay",
+        "stars":[
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png",
+            "../Assets/landingPageAssets/Star 2.png"
+        ]
+    }
+    
+]
