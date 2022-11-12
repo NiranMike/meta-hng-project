@@ -24,14 +24,14 @@ const Hero = () => {
 
           <div className=" flex mt-12">
             <input
-              className=" border py-3  w-[200px] sm:w-[300px] md:w-[400px] px-3 rounded-l-[8px]"
+              className=" border focus:outline-none py-3 w-[200px] sm:w-[300px] md:w-[400px] px-3 rounded-l-[8px]"
               placeholder="Search for location"
               type="text"
               name=""
               id="btn-search"
             />
             <input
-              className=" px-[25px] sm:px-[50px]  font-normal text-[16px] text-white rounded-r-[8px] bg-[#A02279] "
+              className=" cursor-pointer px-[15px] sm:px-[50px]  font-normal text-[16px] text-white rounded-r-[8px] bg-[#A02279] "
               type="submit"
               value="Search"
             />
